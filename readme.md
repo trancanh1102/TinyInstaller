@@ -3,7 +3,7 @@
 Command
 
 ```console
-wget https://github.com/4iTeam/TinyInstaller/raw/main/ti.sh
+wget https://github.com/trancanh1102/TinyInstaller/raw/main/ti.sh
 bash ti.sh 'http://image.gz'
 ```
 
