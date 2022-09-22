@@ -8,3 +8,7 @@ bash ti.sh 'http://image.gz'
 ```
 
 2012: https://bit.ly/3DIYFZ1
+
+Administrator
+
+Long.vps2401
